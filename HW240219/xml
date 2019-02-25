@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Car xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Model>Mitsubshi</Model>
+  <Brand>Outlender</Brand>
+  <Year>2019</Year>
+  <Color>Blue</Color>
+</Car>

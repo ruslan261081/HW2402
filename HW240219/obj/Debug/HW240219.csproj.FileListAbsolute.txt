@@ -1,0 +1,7 @@
+C:\Users\rosla\source\repos\HW240219\HW240219\bin\Debug\HW240219.exe.config
+C:\Users\rosla\source\repos\HW240219\HW240219\bin\Debug\HW240219.exe
+C:\Users\rosla\source\repos\HW240219\HW240219\bin\Debug\HW240219.pdb
+C:\Users\rosla\source\repos\HW240219\HW240219\obj\Debug\HW240219.csprojAssemblyReference.cache
+C:\Users\rosla\source\repos\HW240219\HW240219\obj\Debug\HW240219.csproj.CoreCompileInputs.cache
+C:\Users\rosla\source\repos\HW240219\HW240219\obj\Debug\HW240219.exe
+C:\Users\rosla\source\repos\HW240219\HW240219\obj\Debug\HW240219.pdb
